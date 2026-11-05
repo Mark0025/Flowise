@@ -4,6 +4,12 @@
 
 # Flowise - Build LLM Apps Easily
 
+## About
+- **What it is:** A copy of the open-source Flowise app for building AI chat flows by dragging boxes; Mark made no changes.
+- **Business:** learning
+- **Status:** inactive since 2023-09
+- **Source:** agent research 2026-11-04
+
 [![Release Notes](https://img.shields.io/github/release/FlowiseAI/Flowise)](https://github.com/FlowiseAI/Flowise/releases)
 [![Discord](https://img.shields.io/discord/1087698854775881778?label=Discord&logo=discord)](https://discord.gg/jbaHfsRVBW)
 [![Twitter Follow](https://img.shields.io/twitter/follow/FlowiseAI?style=social)](https://twitter.com/FlowiseAI)
